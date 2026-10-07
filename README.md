@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gene-chang-w/">↗ LinkedIn</a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/gene-chang-w/">↗ LinkedIn</a> &nbsp;
 </p>
 
 <p align="center">✧ &nbsp; Build &nbsp; · &nbsp; Explore &nbsp; · &nbsp; Create &nbsp; ✧</p>
