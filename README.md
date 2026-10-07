@@ -16,7 +16,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gene-chang-w/">↗ LinkedIn</a> &nbsp; · &nbsp;
-  <a href="mailto:genechang.w@gmail.com">✉ Email</a>
 </p>
 
 <p align="center">✧ &nbsp; Build &nbsp; · &nbsp; Explore &nbsp; · &nbsp; Create &nbsp; ✧</p>
