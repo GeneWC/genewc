@@ -18,7 +18,6 @@
   <a href="https://www.linkedin.com/in/gene-chang-w/">↗ LinkedIn</a> &nbsp;
 </p>
 
-<p align="center">✧ &nbsp; Build &nbsp; · &nbsp; Explore &nbsp; · &nbsp; Create &nbsp; ✧</p>
 
 ## 🧭 Skills
 
@@ -85,17 +84,20 @@ Improved pathology cell identification accuracy by 11% and streamlined preparati
 
 ---
 
-## 🌙 Beyond the keyboard
+## 🌙 Other stuff about me!
+
+### 🎶 Hobbies and Interests
 
 **🎙️ Singing & 🎻 violin** &nbsp; · &nbsp; **🎭 Cosplay** &nbsp; · &nbsp; **🎬 Content creation**
 
-⚽ **Soccer** &nbsp; · &nbsp; 🔵🔴 **FC Barcelona** — *visca barça!*<br>
+⚽ **Soccer** &nbsp; · &nbsp; 🔵🔴 **FC Barcelona & Brighton and Hove Albion** ⚪🔵
+&nbsp; · &nbsp;
 🏟️ **Houston sports**
 
-### 📚 Books & media
+### 📚 Favorite Books & Media
 
-📖 *The Alchemist* &nbsp; · &nbsp; 🐉 *The Beginning After the End*<br>
-🌊 *Avatar: The Last Airbender* &nbsp; · &nbsp; ♟️ *Code Geass*<br>
+📖 *The Alchemist* &nbsp; · &nbsp; 🐉 *The Beginning After the End*&nbsp; · &nbsp;
+🌊 *Avatar: The Last Airbender* &nbsp; · &nbsp; ♟️ *Code Geass*&nbsp; · &nbsp;
 🐲 *How to Train Your Dragon* &nbsp; · &nbsp; 🏐 *Haikyuu!!*
 
 <p align="center">✧ &nbsp; · &nbsp; ✦ &nbsp; · &nbsp; ✧</p>
