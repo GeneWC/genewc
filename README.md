@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="Sky bison resting in a sunlit green valley dotted with purple flowers." width="100%">
+  <img src="assets/banner.jpg" alt="Lush floating mountains and waterfalls rising through a misty fantasy landscape." width="100%">
 </p>
 
 <h1 align="center">Gene Chang</h1>
 
 <p align="center">
-  <strong>Computer Science @ Georgia Tech</strong><br>
+  🎓 <strong>Computer Science @ Georgia Tech</strong><br>
   Building backend systems, AI applications, and computer vision tools.
 </p>
 
@@ -15,38 +15,40 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gene-chang-w/">LinkedIn</a> &nbsp; · &nbsp;
-  <a href="mailto:genechang.w@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/gene-chang-w/">↗ LinkedIn</a> &nbsp; · &nbsp;
+  <a href="mailto:genechang.w@gmail.com">✉ Email</a>
 </p>
 
-## Skills
+<p align="center">✧ &nbsp; Build &nbsp; · &nbsp; Explore &nbsp; · &nbsp; Create &nbsp; ✧</p>
 
-| Area | Skills & tools |
+## 🧭 Skills
+
+| Area | Toolkit |
 | :--- | :--- |
-| **Languages** | Python · Java · JavaScript · SQL |
-| **Applications** | FastAPI · React · Node.js / Express · Spring Boot · Streamlit |
-| **AI & computer vision** | OpenCV · YOLO · MediaPipe · LangChain · RAG · OCR |
-| **Data & modeling** | PostgreSQL · Redis Streams · Chroma · Pandas · scikit-learn |
-| **Cloud & delivery** | Docker · Kubernetes · Helm · OpenShift · IBM Cloud · CI/CD |
+| **Languages** | <img src="assets/icons/languages.svg" alt="Python, Java, JavaScript" width="108"><br>Python · Java · JavaScript · SQL |
+| **Applications** | <img src="assets/icons/applications.svg" alt="FastAPI, React, Node.js, Express, Spring" width="184"><br>FastAPI · React · Node.js / Express · Spring Boot · Streamlit |
+| **AI & computer vision** | <img src="assets/icons/ai.svg" alt="OpenCV, scikit-learn" width="70"><br>OpenCV · YOLO · MediaPipe · LangChain · RAG · OCR |
+| **Data & modeling** | <img src="assets/icons/data.svg" alt="PostgreSQL, Redis" width="70"><br>PostgreSQL · Redis Streams · Chroma · Pandas · scikit-learn |
+| **Cloud & delivery** | <img src="assets/icons/cloud.svg" alt="Docker, Kubernetes, OpenShift" width="108"><br>Docker · Kubernetes · Helm · OpenShift · IBM Cloud · CI/CD |
 | **Engineering** | API development · automated testing · performance profiling · caching · hybrid search |
 
-## Projects
+## 🛠️ Projects
 
-### [Zukover ↗](https://github.com/GeneWC/tiktok-cover-analysis)
+### 🎵 [Zukover ↗](https://github.com/GeneWC/tiktok-cover-analysis)
 
 A web app that uses computer vision and audio analysis to give creators actionable feedback on the filming and sound of their instrumental TikTok covers.
 
 `Python` · `FastAPI` · `OpenCV` · `MediaPipe` · `React`
 
-### [Docker Audio Analyzer ↗](https://github.com/GeneWC/docker-audio-analysis)
+### 🎧 [Docker Audio Analyzer ↗](https://github.com/GeneWC/docker-audio-analysis)
 
 An asynchronous audio analysis service with Redis Streams workers, PostgreSQL job storage, and Docker/Kubernetes deployment, built to explore distributed backend systems.
 
 `Java` · `Spring Boot` · `Redis Streams` · `PostgreSQL` · `Docker` · `Kubernetes` · `Helm`
 
-## Experience
+## 🌿 Experience
 
-### IBM · Summer 2026
+### 🏢 IBM · Summer 2026
 
 *Software Development Intern*
 
@@ -55,7 +57,7 @@ Built a compliance analysis backend, reduced API analysis latency by 80%, and de
 **Tools:** `Python` · `FastAPI` · `PyYAML` · `OpenCV` · `pytest` · `Docker` · `OpenShift` · `IBM Cloud` · `nginx`<br>
 **Skills:** API development, performance profiling, concurrent caching, OCR, automated testing, and CI/CD.
 
-### IBM · Summer 2025
+### 🏢 IBM · Summer 2025
 
 *Software Development Intern*
 
@@ -64,7 +66,7 @@ Built hybrid search and a RAG assistant for 200+ hours of audit interviews, cutt
 **Tools:** `Python` · `LangChain` · `Whisper` · `IBM Granite` · `Chroma` · `Streamlit` · `Docker`<br>
 **Skills:** Retrieval-augmented generation, hybrid search, semantic indexing, transcription, and source-grounded summarization.
 
-### GEOPH · Jan–Apr 2025
+### 🌍 GEOPH · Jan–Apr 2025
 
 *Software Development Intern · Geospatial Public Health*
 
@@ -73,7 +75,7 @@ Built a vaccine carrier tracking platform supporting hundreds of remote African 
 **Tools:** `JavaScript` · `React` · `Vite` · `Node.js` · `Express` · `SQL`<br>
 **Skills:** Full-stack development, frontend/backend integration, database integration, and workflow automation.
 
-### University of Houston HULA AI Lab · Mar–Sep 2024
+### 🔬 University of Houston HULA AI Lab · Mar–Sep 2024
 
 *Computer Vision Research Intern*
 
@@ -84,12 +86,17 @@ Improved pathology cell identification accuracy by 11% and streamlined preparati
 
 ---
 
-## Hobbies & interests
+## 🌙 Beyond the keyboard
 
-Singing, violin, soccer (**visca barça!**), Houston sports, cosplay, and content creation.
+**🎙️ Singing & 🎻 violin** &nbsp; · &nbsp; **🎭 Cosplay** &nbsp; · &nbsp; **🎬 Content creation**
 
-## Books & media
+⚽ **Soccer** &nbsp; · &nbsp; 🔵🔴 **FC Barcelona** — *visca barça!*<br>
+🏟️ **Houston sports**
 
-*The Alchemist* · *Avatar: The Last Airbender* · *The Beginning After the End* · *Code Geass* · *How to Train Your Dragon* · *Haikyuu!!*
+### 📚 Books & media
+
+📖 *The Alchemist* &nbsp; · &nbsp; 🐉 *The Beginning After the End*<br>
+🌊 *Avatar: The Last Airbender* &nbsp; · &nbsp; ♟️ *Code Geass*<br>
+🐲 *How to Train Your Dragon* &nbsp; · &nbsp; 🏐 *Haikyuu!!*
 
 <p align="center">✧ &nbsp; · &nbsp; ✦ &nbsp; · &nbsp; ✧</p>
